@@ -3,7 +3,7 @@
 
 int main()
 {
-   //1.	Faça um programa que exibe a tabuada do dois.
+   //FaÃ§a um programa que exibe a tabuada do dois.
 
    int x;
 
